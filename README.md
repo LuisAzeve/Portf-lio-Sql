@@ -7,8 +7,6 @@ Este repositório contém o portfólio da disciplina de Banco de Dados, com o ob
 - 📄 Modelo conceitual
 - 📄 Modelo lógico
 - 📄 Script SQL com criação de tabelas
-- 📄 Documento com análise de requisitos e respostas
-- 📄 Imagens da modelagem
 
 ## Desenvolvido por
 Luis Azevedo  
